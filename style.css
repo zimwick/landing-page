@@ -13,8 +13,8 @@ a:visited {
 
 header {
   background-color: #1f2937;
-  height: 300px;
-  padding: 25px 350px;
+  padding: 25px 450px;
+  padding-bottom: 120px;
 }
 .nav-bar {
   display: flex;
@@ -34,4 +34,60 @@ header {
 }
 .logo-container a {
   color: #f9faf8;
+}
+
+.hero-container {
+  padding: 0 450px 120px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1f2937;
+}
+
+.hero-header {
+  font-size: 48px;
+  font-weight: 900;
+  line-height: 50px;
+  margin-bottom: 4px;
+  color: #f9faf8;
+}
+
+.hero-text {
+  color: #e5e7eb;
+  font-size: 18px;
+  margin-bottom: 12px;
+  line-height: 20px;
+}
+
+.btn {
+  display: inline-block;
+  border-radius: 5px;
+  padding: 6px 28px;
+}
+
+.hero-sign-up:link,
+.hero-sign-up:visited {
+  background-color: #3882f6;
+  transition: all 0.3s;
+}
+
+.hero-sign-up:hover,
+.hero-sign-up:active {
+  background-color: #4b8df6;
+}
+
+.hero-image {
+  max-width: 90%;
+  height: auto;
+}
+
+.hero-heading-container {
+  flex: 1;
+}
+
+.hero-image-container {
+  flex: 1;
+  display: flex;
+  justify-content: center; /* this centers the image inside */
+  align-items: center;
 }
