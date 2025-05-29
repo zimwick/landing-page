@@ -8,12 +8,11 @@
 .container {
   max-width: 1000px;
   margin: 0 auto;
-  padding: 0 40px;
 }
 
 .section-bg {
   background-color: #1f2937;
-  padding: 25px 0 120px;
+  padding: 25px 0 80px;
 }
 
 a:link,
@@ -133,7 +132,8 @@ a:visited {
 
 .card-text {
   color: #1f2937;
-  font-size: 18px;
+  font-size: 20px;
+  font-weight: 300;
   text-align: center;
 }
 
@@ -160,4 +160,36 @@ blockquote {
   font-style: italic;
   font-weight: 300;
   color: #1f2937;
+}
+
+.cta {
+  display: flex;
+  background-color: #3882f6;
+  border-radius: 7px;
+  color: #f9faf8;
+  margin: 80px auto;
+  justify-content: center;
+  align-items: center;
+  gap: 200px;
+  padding: 35px 0;
+}
+
+.cta-header {
+  font-size: 18px;
+}
+
+.cta-text p {
+  font-size: 15px;
+  font-weight: 300;
+}
+
+.cta-btn:link,
+.cta-btn:visited {
+  border: 2px solid #f9faf8;
+  transition: all 0.3s;
+}
+
+.cta-btn:hover,
+.cta-btn:active {
+  background-color: #4b8df6;
 }
