@@ -28,7 +28,7 @@ This is a **Landing Page** built from scratch as part of [The Odin Project's](ht
 ├── art.jpeg # Card image
 ├── kitchen.jpeg # Card image
 ├── desert.jpeg # Card image
-└── README.md # Project documentation.
+└── README.md # Project documentation
 
 ## 🔖 Acknowledgements
 
