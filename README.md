@@ -1,6 +1,6 @@
 # Landing Page Project
 
-🔗 **Live Demo**: [View the Site](https://https://zimwick.github.io/landing-page/)
+🔗 **Live Demo**: [View the Site](https://zimwick.github.io/landing-page/)
 
 This is a **Landing Page** built from scratch as part of [The Odin Project's](https://www.theodinproject.com/) foundational curriculum. The goal of this assignment was to practice HTML, CSS, and basic layout principles, focusing on semantic structure, and flexbox layout.
 
