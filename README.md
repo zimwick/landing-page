@@ -18,18 +18,6 @@ This is a **Landing Page** built from scratch as part of [The Odin Project's](ht
 - **Flexbox**
 - [Google Fonts - Roboto](https://fonts.google.com/specimen/Roboto)
 
-## 📂 Project Structure
-
-/
-├── index.html # Main HTML structure
-├── style.css # Styling for all components
-├── photo.jpg # Hero section image
-├── keyboard.jpeg # Card image
-├── art.jpeg # Card image
-├── kitchen.jpeg # Card image
-├── desert.jpeg # Card image
-└── README.md # Project documentation
-
 ## 🔖 Acknowledgements
 
 This project is part of [The Odin Project](https://www.theodinproject.com/) curriculum.
