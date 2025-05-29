@@ -193,3 +193,12 @@ blockquote {
 .cta-btn:active {
   background-color: #4b8df6;
 }
+
+footer {
+  background-color: #1f2937;
+  color: #f9faf8;
+  text-align: center;
+  padding: 25px 0;
+  font-weight: 300;
+  font-size: 13px;
+}
